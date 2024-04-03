@@ -1,7 +1,7 @@
 ﻿using Revvy;
 using FluentAssertions;
 
-namespace RevvyUnitTests.Tests;
+namespace RevvyUnitTests;
 
 public class InquiryPathFinderTests
 {
